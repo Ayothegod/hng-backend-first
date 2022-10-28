@@ -1,6 +1,6 @@
 const express = require('express')
 const app = express()
-PORT = 5000
+PORT =  process.env.PORT || 3030
 
 app.get('/',(req,res) => {
     res.status(200).send({

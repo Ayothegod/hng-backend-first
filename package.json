@@ -15,7 +15,6 @@
   "bugs": {
     "url": "https://github.com/Ayothegod/hng-backend-first/issues"
   },
-  "homepage": "https://github.com/Ayothegod/hng-backend-first#readme",
   "dependencies": {
     "express": "^4.18.2"
   }
